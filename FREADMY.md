@@ -16,7 +16,8 @@
 14. git checkout - переключение на ветку (git checkout develop  переключение на ветку  develop    )
     Слияние веток:
 15. git pull origin master - загрузка объединенной ветки с мастер с гит хаб
-
+    Удалить ветку: 
+16. git branch -d develop - (develop) удаляем
 
 
 
