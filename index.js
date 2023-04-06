@@ -1,3 +1,10 @@
 console.log(Hello)
 
 console.log(branch develop)
+
+const age = 20;
+if (age >= 18) {
+    console.log('Вы совершенно летний');
+} else {
+    console.log('Вы не совершеннолетний');
+}
