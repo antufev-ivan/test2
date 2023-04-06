@@ -16,7 +16,8 @@
 14. git checkout - переключение на ветку (git checkout develop  переключение на ветку  develop    )
     Слияние веток:
 15. git pull origin master - загрузка объединенной ветки с мастер с гит хаб
-
+16. git merge feature/main-page - сЛИЯНИЕ ВИТОК ЧЕРЕЗ ТЕРМИНАЛ (feature/main-page - это ветка)
+    
 
 
 
